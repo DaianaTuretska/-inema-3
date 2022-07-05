@@ -1,0 +1,12 @@
+D:\Cinema3\Cinema3\bin\Debug\net6.0\Cinema3.deps.json
+D:\Cinema3\Cinema3\bin\Debug\net6.0\Cinema3.dll
+D:\Cinema3\Cinema3\bin\Debug\net6.0\ref\Cinema3.dll
+D:\Cinema3\Cinema3\bin\Debug\net6.0\Cinema3.pdb
+D:\Cinema3\Cinema3\obj\Debug\net6.0\Cinema3.csproj.AssemblyReference.cache
+D:\Cinema3\Cinema3\obj\Debug\net6.0\Cinema3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cinema3\Cinema3\obj\Debug\net6.0\Cinema3.AssemblyInfoInputs.cache
+D:\Cinema3\Cinema3\obj\Debug\net6.0\Cinema3.AssemblyInfo.cs
+D:\Cinema3\Cinema3\obj\Debug\net6.0\Cinema3.csproj.CoreCompileInputs.cache
+D:\Cinema3\Cinema3\obj\Debug\net6.0\Cinema3.dll
+D:\Cinema3\Cinema3\obj\Debug\net6.0\ref\Cinema3.dll
+D:\Cinema3\Cinema3\obj\Debug\net6.0\Cinema3.pdb

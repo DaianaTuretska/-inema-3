@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "026b9a77-399f-47e8-bdd8-47de5c86fdd8": {
+      "ProjectGuid": "026b9a77-399f-47e8-bdd8-47de5c86fdd8",
+      "DisplayName": "Cinema3",
+      "ColorIndex": 0
+    },
+    "9221a141-32cc-40cd-bf42-06150304c83b": {
+      "ProjectGuid": "9221a141-32cc-40cd-bf42-06150304c83b",
+      "DisplayName": "CinemaApplication",
+      "ColorIndex": 1
+    },
+    "80ff9061-76ad-4094-806d-f8228a21f160": {
+      "ProjectGuid": "80ff9061-76ad-4094-806d-f8228a21f160",
+      "DisplayName": "CinemaClearArchitecture",
+      "ColorIndex": 2
+    },
+    "668dcf25-11be-4080-81e3-5ec28d4d34c8": {
+      "ProjectGuid": "668dcf25-11be-4080-81e3-5ec28d4d34c8",
+      "DisplayName": "CinemaInfrastructure",
+      "ColorIndex": 3
+    },
+    "b299fab4-7b53-4314-a340-69e35ec87074": {
+      "ProjectGuid": "b299fab4-7b53-4314-a340-69e35ec87074",
+      "DisplayName": "CinemaDomain",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

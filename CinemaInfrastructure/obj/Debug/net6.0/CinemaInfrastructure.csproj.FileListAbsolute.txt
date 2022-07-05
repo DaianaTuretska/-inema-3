@@ -1,0 +1,17 @@
+D:\Cinema3\CinemaInfrastructure\bin\Debug\net6.0\CinemaInfrastructure.deps.json
+D:\Cinema3\CinemaInfrastructure\bin\Debug\net6.0\CinemaInfrastructure.runtimeconfig.json
+D:\Cinema3\CinemaInfrastructure\bin\Debug\net6.0\CinemaInfrastructure.dll
+D:\Cinema3\CinemaInfrastructure\bin\Debug\net6.0\ref\CinemaInfrastructure.dll
+D:\Cinema3\CinemaInfrastructure\bin\Debug\net6.0\CinemaInfrastructure.pdb
+D:\Cinema3\CinemaInfrastructure\bin\Debug\net6.0\CinemaDomain.dll
+D:\Cinema3\CinemaInfrastructure\bin\Debug\net6.0\CinemaDomain.pdb
+D:\Cinema3\CinemaInfrastructure\obj\Debug\net6.0\CinemaInfrastructure.csproj.AssemblyReference.cache
+D:\Cinema3\CinemaInfrastructure\obj\Debug\net6.0\CinemaInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cinema3\CinemaInfrastructure\obj\Debug\net6.0\CinemaInfrastructure.AssemblyInfoInputs.cache
+D:\Cinema3\CinemaInfrastructure\obj\Debug\net6.0\CinemaInfrastructure.AssemblyInfo.cs
+D:\Cinema3\CinemaInfrastructure\obj\Debug\net6.0\CinemaInfrastructure.csproj.CoreCompileInputs.cache
+D:\Cinema3\CinemaInfrastructure\obj\Debug\net6.0\CinemaInfrastructure.csproj.CopyComplete
+D:\Cinema3\CinemaInfrastructure\obj\Debug\net6.0\CinemaInfrastructure.dll
+D:\Cinema3\CinemaInfrastructure\obj\Debug\net6.0\ref\CinemaInfrastructure.dll
+D:\Cinema3\CinemaInfrastructure\obj\Debug\net6.0\CinemaInfrastructure.pdb
+D:\Cinema3\CinemaInfrastructure\obj\Debug\net6.0\CinemaInfrastructure.genruntimeconfig.cache
